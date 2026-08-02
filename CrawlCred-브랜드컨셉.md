@@ -1,4 +1,4 @@
-# CrawlCheck — 브랜드 컨셉 & 사업 구조
+# CrawlCred — 브랜드 컨셉 & 사업 구조
 
 > 작성일: 2026-07-16
 > 모델: FindRadonPros 플레이북 (디렉토리 + Featured 구독) + HireProof의 검증 DNA
@@ -8,8 +8,8 @@
 
 ## 1. 브랜드
 
-- **이름(1안): CrawlCheck** — crawlcheck.com
-  - 짧고(10자) 외우기 쉬움, "Check" 계보(Contractor Risk Check → CrawlCheck)
+- **이름(1안): CrawlCred** — crawlcheck.com
+  - 짧고(10자) 외우기 쉬움, "Check" 계보(Contractor Risk Check → CrawlCred)
   - 웹서치 결과 동일 브랜드 없음. 가장 가까운 건 crawlspacecheckup.com(지역 점검 서비스)
   - ⚠️ 도메인·USPTO 상표는 구매 직전 실시간 확인 필수
 - 백업: DryCrawl / CrawlSpaceCheck

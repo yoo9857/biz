@@ -1,2 +1,18 @@
 # crawlcheck is its own git repository with its own deploy remote
 crawlcheck/
+
+# Contact data pulled from third-party websites. This repository is public on
+# GitHub, and a CSV of named businesses with their email addresses is a
+# scrapable contact list of other people's data — it stays on disk and in the
+# database, never in a commit. (Collected by crawlcheck/src/collect-emails.ts;
+# the review-and-import procedure is RUNBOOK_KO.md §5-5.)
+CrawlCred-업체이메일-*.csv
+CrawlCred-시딩후보-*.csv
+places-*.csv
+
+# Reference photographs from other companies' sites, used only as art direction
+# input for our own scene shots. Not ours to redistribute.
+*.jpg
+*.jpeg
+*.png
+*.webp
